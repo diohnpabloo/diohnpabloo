@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Diohn Pablo 👋
 
-<!--
-**diohnpabloo/diohnpabloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm Mobile and Full Stack  Developer. And, I'm studying mobile development.
 
-Here are some ideas to get you started:
+🚀 #### Current stack
+- Main language: `Javascript`
+-  Frontend: `React Native`, `React`, `HTML5`, `CSS3`, `Javascript`,
+- Backend: `Node.js`,
+- Version code: `Git e Github`,
+- Database: `Sqlite`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 #### Contacts
+- Email: diohn_pablo@hotmail.com
+- Linkedin: https://www.linkedin.com/in/diohn-pablo-6541a3275/
