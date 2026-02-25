@@ -1,7 +1,8 @@
-## Hi there, I'm Diohn Pablo 👋
+## Diohn Pablo 👋
 
-#### About
-I'm Full Stack  Developer. And, I'm studying mobile development.
+`Desenvolvedor Full Stack`
+
+Eu me chamo Diohn Pablo, tenho 27 anos e sou natural de Ceará, sou formado em Análise e desenvolvimento de sistemas e possuo algumas habilidades que foram desenvolvidas ao longo desses anos de estudos que vocês podem ver logo abaixo: 
 
 🚀 #### Current stack
 - Main language: `Javascript`
